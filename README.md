@@ -32,5 +32,5 @@ A data structure is a storage that is used to store and organize data. It is a w
 
 # Types of Data Structures
 
-  - Primitive: are also called Primitive Data Types. byte, short,  int, float, char, boolean, long, and double are primitive Data types.
-  - Non-primitive: Non-primitive Data Structures are of two types (Linear and Non-linear)
+  - Primitive: are also called Primitive Data Types. byte, short,  int, float, char, boolean, long, and double are primitive Data types;
+  - Non-primitive: Non-primitive.
